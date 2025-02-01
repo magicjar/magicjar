@@ -1,5 +1,7 @@
-<img align="left" width="100" height="100" alt="Fajar Setya Budi's Github" src="assets/left-upin.png"/>
-<img align="right" width="100" height="100" alt="Fajar Setya Budi's Github" src="assets/right-ipin.png"/>
+<div style="position: relative">
+  <img align="left" width="100" height="100" alt="Fajar Setya Budi's Github" src="assets/left-upin.png"/>
+  <img align="right" width="100" height="100" alt="Fajar Setya Budi's Github" src="assets/right-ipin.png"/>
+</div>
 <br>
 <br>
 <h2 align="center">Welcome</h2></div>
